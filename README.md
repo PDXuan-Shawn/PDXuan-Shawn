@@ -4,7 +4,7 @@
 
 🔭 A Tech enthusiast, problem solver, and software engineer
 
-[Linkedin](linkedin.com/in/pdxuan-shawn) | [Blog](https://www.devwithshawn.com)
+[Linkedin](linkedin.com/in/pdxuan) | [Blog](https://www.devwithshawn.com)
 
 [![PDXuan GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxuan&count_private=true&show_icons=true&theme=dracula)](https://github.com/pdxuan)
 
