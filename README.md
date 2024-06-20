@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hola, Good Day!
 
-👨‍💻 I'm Tu Tran | 9+ Exp | Full-stack Developer
+👨‍💻 Hi, I'm Shawn | 5 Exp | Full-stack Developer
 
 🔭 I’m currently working on .Net core and Angular.
 
