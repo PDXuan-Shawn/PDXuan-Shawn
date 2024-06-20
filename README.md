@@ -6,7 +6,7 @@
 
 [Linkedin](linkedin.com/in/pdxuan) | [Blog](https://www.devwithshawn.com)
 
-[![PDXuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxuan&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/tutv)
+[![PDXuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxuan&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/pdxuan)
 
 [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://www.devwithshawn.com/about)
 
