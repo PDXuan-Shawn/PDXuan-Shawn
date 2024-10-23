@@ -1,6 +1,6 @@
 ### 👋 Hola, Good Day!
 
-👨‍💻 I'm Shawn | 5 Exp | Full-stack Software Engineer
+👨‍💻 I'm Shawn | 5+ Exp | Full-stack Software Engineer
 
 🔭 A Tech enthusiast, problem solver, and software engineer
 
